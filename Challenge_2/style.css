@@ -1,0 +1,194 @@
+
+.media-icons{
+    margin-left: 1050px;
+}
+.fa-facebook-f{
+    color: #ffffff;
+    background-color: #3d5aef;
+    border-radius: 50%;
+    padding: 4%;
+    margin-left: -35px;
+}
+.fa-twitter{
+    color: #ffffff;
+    background-color: #2e8dc8;
+    border-radius: 50%;
+    padding: 3%;
+    margin-right: 10px;
+
+}
+.fa-instagram{
+    color: #ffffff;
+    background-color: #f2395b;
+    border-radius: 50%;
+    padding: 3%;
+}
+.fa-linkedin-in{
+    color: #ffffff;
+    background-color: #4d70d9;
+    border-radius: 50%;
+    padding: 3%;
+}
+.fa-youtube{
+    color: #ffffff;
+    background-color: #e02e0f;
+    border-radius: 50%;
+    padding: 3%;   
+}
+.content{
+    background-color: #06068b;  
+    
+}
+.top{
+   margin-bottom: -450px;
+   margin-left: 130px;
+   font-size: 30px;
+   margin-top: 400px;
+   color: #ffffff;
+
+}
+
+.link-boxes{
+    margin-top: 550px;
+    margin-right: 00px;
+}
+.box1{
+    margin-left: 100px;
+    margin-bottom: -105px;
+    color: #ffffff;
+    justify-content: space-between;
+}
+.home{
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: disc;
+}
+.contact{
+    color: #ffffff;
+    text-decoration: none;
+}
+.about{
+    color: #ffffff;
+    text-decoration: none;
+}
+.start{
+    color: #ffffff;
+    text-decoration: none;
+}
+.box2{
+    margin-left: 350px;
+    margin-bottom: -105px;
+    color: #ffffff;
+}
+.app{
+    color: #ffffff;
+    text-decoration: none;
+}
+.web{
+    color: #ffffff;
+    text-decoration: none;
+}
+.logo{
+    color: #ffffff;
+    text-decoration: none;
+}
+.banner{
+    color: #ffffff;
+    text-decoration: none;
+}
+.box3{
+    margin-left: 650px;
+    margin-bottom: -105px;
+    color: #ffffff;
+}
+.profile{
+    color: #ffffff;
+    text-decoration: none;
+}
+.account{
+    color: #ffffff;
+    text-decoration: none;
+}
+.perform{
+    color: #ffffff;
+    text-decoration: none;
+}
+.purchase{
+    color: #ffffff;
+    text-decoration: none;
+}
+.box4{
+    margin-left: 900px;
+    margin-bottom: -100px;
+    color: #ffffff;
+}
+.css{
+    color: #ffffff;
+    text-decoration: none;
+}
+.js{
+    color: #ffffff;
+    text-decoration: none;
+}
+.photo{
+    color: #ffffff;
+    text-decoration: none;
+}
+.shop{
+    color: #ffffff;
+    text-decoration: none;
+}
+.bottom{
+    margin-left: 1120px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+.mail{
+    width: 180px;
+   height: 30px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   border-radius: 5px;
+}
+.submit{
+    width: 190px;
+    height: 35px;
+    background-color:#ffffff ;
+    margin-bottom: -80px;
+    border-radius: 5px;
+}
+.link_name{
+    color: #d5d5ec;
+}
+.policy_terms{
+    margin-left: 1050px;
+    margin-top: 180px;
+    background-color: #06068b;
+    
+}
+.privacy{
+    color: #ffffff;
+    text-decoration: none;
+}
+.term{
+    color: #ffffff;
+    text-decoration: none;
+}
+.bottom-details{
+   margin-top: 60px;
+   margin-bottom: -70px;
+   color: #ffffff;
+   background-color: #06068b;
+   padding-bottom: 80px;
+
+}
+
+.logo{
+    text-decoration: none;
+    color: #ffffff;
+}
+.copyright_text{
+    margin-left: 110px;
+    margin-top: 10px;
+}
+

@@ -1,0 +1,97 @@
+.heading{
+    margin-left: 200px;
+    margin-top: 600px;
+}
+/*.footer{
+    background-color: aqua;
+    
+}*/
+
+/*.content{
+    margin-top: 700px;
+    background-color: blue;
+}*/
+
+.services{
+    margin-left: 200px;
+    margin-bottom: -180px;
+
+}
+.app{
+    text-decoration: none;
+    color: #000000;
+}
+.web{
+    text-decoration: none;
+    color: #000000;
+}
+.dev{
+    text-decoration: none;
+    color: #000000;
+}
+.design{
+    text-decoration: none;
+    color: #000000;
+}
+.social-media{
+    margin-left: 500px;
+    margin-bottom: -210px;
+}
+.linkedin{
+    text-decoration: none;
+    color: #000000;
+}
+.twitter{
+    text-decoration: none;
+    color: #000000;
+}
+.github{
+    text-decoration: none;
+    color: #000000;
+}
+.codepen{
+    text-decoration: none;
+    color: #000000;
+}
+.instagram{
+    text-decoration: none;
+    color: #000000;
+}
+.links{
+    margin-left: 780px;
+    margin-bottom: -190px;
+}
+.home{
+    text-decoration: none;
+    color: #000000;
+}
+.about{
+    text-decoration: none;
+    color: #000000;
+}
+.blogs{
+    text-decoration: none;
+    color: #000000;
+}
+.contact{
+    text-decoration: none;
+    color: #000000;
+}
+.details{
+    margin-left: 1100px;
+    margin-bottom: 100px;
+    text-decoration: none;
+}
+.mobile1{
+    text-decoration: none;
+    color: #000000;
+}
+.email{
+    text-decoration: none;
+    color: #000000;
+}
+
+footer{
+    text-align: center;
+    height: 60px;
+}
